@@ -25,5 +25,4 @@ The winning model is serialized (`churn_pipeline.joblib`) and deployed as a live
 * **Targeted Retention:** Empowers agents to offer data-backed, highly specific incentives (e.g., targeting a contract upgrade directly at a customer flagged for month-to-month risk).
 
 
-# Launch the Streamlit App
-streamlit run app.py
+
